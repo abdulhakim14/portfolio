@@ -13,7 +13,6 @@
   </kbd>
 </p>
 
-:star: Star me on GitHub — it helps!
 
 
 
