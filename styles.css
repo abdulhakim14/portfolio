@@ -235,7 +235,7 @@ profile-photo .img{
 }
 
 
-/*---------------------------Education & Internship---------------------------*/
+/*---------------------------Education & Experience---------------------------*/
 
 .education-content .row{
   display: flex;
@@ -442,13 +442,13 @@ profile-photo .img{
     text-align: center;
   }
   .footer .message {
-    font-size: 12px;
+    font-size: 15px;
     color: rgba(255, 255, 255, 0.4);
     margin-bottom: 10px;
   }
   
   .copyright {
-    font-size: 12px;
+    font-size: 17px;
   }
 
 
