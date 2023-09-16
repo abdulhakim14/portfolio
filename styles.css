@@ -89,7 +89,7 @@ body{
   align-items: center; 
 }
 .header ul li{
-  margin: 0 25px;
+  margin: 0 16px;
 }
 .header ul li a{
   text-transform: capitalize;
@@ -318,37 +318,6 @@ profile-photo .img{
   line-height: 25px;
   font-size: 16px;
   text-align: justify;
-}
-
- /*---------------------------Skills---------------------------*/
-
-.skill-area{
-  padding-top: 130px;
-  background-color: #202020;
-}
-.skill{
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom:50px;
-}
-.skill-content{
-  flex-basis: 60%;
-}
-.skill-content h4{
-  color: #fed700;
-  font-size: 40px;
-  line-height: 70px;
-  text-transform: capitalize;
-}
-.skill-content ul {
-  color:#fff;
-  text-align: justify;
-}
-
-.skill-content ul li {
-  list-style-type: disc;
-  margin-bottom: 10px;
 }
 
 
