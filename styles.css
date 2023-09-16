@@ -320,33 +320,35 @@ profile-photo .img{
   text-align: justify;
 }
 
-/*---------------------------Skills---------------------------*/
-#skills {
-    padding: 50px 15px;
-    text-align: center;
+ /*---------------------------Skills---------------------------*/
 
-    h2 {
-        color: $heading;
-        margin-bottom: 50px;
-    }
+.skill-area{
+  padding-top: 130px;
+  background-color: #202020;
+}
+.skill{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom:50px;
+}
+.skill-content{
+  flex-basis: 60%;
+}
+.skill-content h4{
+  color: #fed700;
+  font-size: 40px;
+  line-height: 70px;
+  text-transform: capitalize;
+}
+.skill-content ul {
+  color:#fff;
+  text-align: justify;
+}
 
-    ul {
-        display: block;
-        margin: 0 auto;
-        padding: 0;
-        max-width: 800px;
-    }
-
-    li {
-        display: inline-block;
-        margin: 7px;
-        padding: 5px 10px;
-        color: $heading;
-        background: darken($background-alt, 5%);
-        list-style: none;
-        cursor: default;
-        font-size: 1.2em;
-    }
+.skill-content ul li {
+  list-style-type: disc;
+  margin-bottom: 10px;
 }
 
 
