@@ -102,7 +102,7 @@ body{
 }
 .header .menu_icon{
   color:#fff;
-  font-size: 25px;
+  font-size: 18px;
   cursor: pointer;
   display: none;
 }
@@ -155,8 +155,8 @@ profile-photo .img{
 }
 .profile-text .social i{
   color : #e5e5e5;
-  font-size: 25px;
-  margin-right: 15px;
+  font-size: 18px;
+  margin-right: 10px;
   transition: 0.5s;
 }
 .profile-text .social i:hover{
