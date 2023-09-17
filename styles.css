@@ -321,67 +321,6 @@ profile-photo .img{
 }
 
 
-/*---------------------------Skills---------------------------*/
-.skill-content{
-  padding: 90px 0;
-  /* color:#fff;  */
-}
-.skill-title{
-  margin-bottom: 60px;
-  text-align: center;
-}
-.skill-title h4{
-  text-transform: uppercase;
-  font-size: 40px;
-  line-height: 40px;
-  color: #fed700;
-  margin-bottom: 20px;
-}
-.skill-title p{
-  color: #e5e5e5;
-}
-.skills{
-  display: flex;
-  justify-content:space-between;
-  flex-wrap: wrap;
-}
-
-
-
-.skill{
-    /* padding: 30px 15px; */
-    color: #e5e5e5;
-    border: 2px solid #e5e5e5;
-    border-radius: 10px;
-    width: 100%;
-    position: relative;
-    padding: 25px;
-    text-align: center;
-    flex-basis: 32%;
-    transition: .3s;
-}
-.skill i{
-  background-color: #fed700;
-  width: 60px;
-  height: 60px;
-  color: #333;
-  font-size: 26px;
-  line-height: 60px;
-  border-radius: 50%;
-}
-.skill h4{
-  font-size: 26px;
-  text-transform: capitalize;
-  margin: 20px 0;
-}
-.skill p{
-  text-align: justify;
-}
-.skill:hover{
-  border-color: #fed700;
-}
-
-
 
 /*---------------------------Projects---------------------------*/
 .project-content{
