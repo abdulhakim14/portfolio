@@ -345,6 +345,20 @@ profile-photo .img{
   justify-content:space-between;
   flex-wrap: wrap;
 }
+
+.container {
+    display: flex; /* Optional: To align words horizontally */
+    flex-wrap: wrap; /* Optional: To wrap words to the next line if the container is not wide enough */
+}
+
+.container span {
+    background-color: #f2f2f2; /* Background color */
+    padding: 5px; /* Padding around each word */
+    margin: 5px; /* Margin between each word */
+    border: 1px solid #ccc; /* Optional: Add a border around each word */
+}
+
+
 .skill{
     /* padding: 30px 15px; */
     color: #e5e5e5;
